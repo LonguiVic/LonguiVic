@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data engineering, AWS and SQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-victor-longui.com.br/](https://portfolio-victor-longui.com.br/)
-
 - 💬 Ask me about **Data engineering/analytics**
 
 - 📫 How to reach me **longuivictor@gmail.com**
