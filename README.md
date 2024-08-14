@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Tok&Stok as data engineer intern**
 
-- 🌱 I’m currently learning **Data engineering, AWS and SQL**
-
 - 💬 Ask me about **Data engineering/analytics**
 
 - 📫 How to reach me **longuivictor@gmail.com**
