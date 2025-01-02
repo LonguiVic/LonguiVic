@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Victor!</h1>
-<h3 align="center">A Software Engineering student and Data Engineering intern</h3>
+<h3 align="center">A Software Engineering student and Entry-Level Data Engineer</h3>
 <img align="right" alt="Deploy" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxMWJoaDg3NjJtd2gwc256c2Rhcmxzd25mNXBvNmQzZnJlZWoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longuivic&label=Profile%20views&color=0e75b6&style=flat" alt="longuivic" /> </p>
