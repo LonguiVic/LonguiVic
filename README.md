@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Longui!</h1>
-<h3 align="center">Senior Data Engineer & Software Engineering Student</h3>
+<h3 align="center">Mid-Level Data Engineer & Software Engineering Student</h3>
 
 <div>
   <img align="right" alt="Deploy" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxMWJoaDg3NjJtd2gwc256c2Rhcmxzd25mNXBvNmQzZnJlZWoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp">
