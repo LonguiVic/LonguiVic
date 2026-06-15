@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Victor!</h1>
-<h3 align="center">Software Engineering Student & Data Engineer</h3>
+<h1 align="center">Hi 👋, I'm Victor Longui!</h1>
+<h3 align="center">Senior Data Engineer & Software Engineering Student</h3>
 
 <div>
   <img align="right" alt="Deploy" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNxMWJoaDg3NjJtd2gwc256c2Rhcmxzd25mNXBvNmQzZnJlZWoxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ROlbnsc7aCIL6Icq6h/giphy.webp">
 
   <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=longuivic&label=Profile%20views&color=0e75b6&style=flat" alt="longuivic" /> 
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+    <img src="https://komarev.com/ghpvc/?username=longuivic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   </p>
 
-  - 💼 **Data Engineer** com foco em pipelines escaláveis, governança e infraestrutura Cloud.
-  - 🌱 I’m currently learning **Software Engineering** (rumo à formatura em 2026!)
-  - 💬 Ask me about **dbt, Databricks, PySpark, Airflow e AWS**.
+  - 💼 **Mid-Level Data Engineer** focused on scalable pipelines, data governance, and Cloud infrastructure.
+  - 🌱 Finishing my **Software Engineering** degree (Graduating in 2026!).
+  - 💬 Ask me about **dbt, Databricks, PySpark, Airflow, AWS, and Azure**.
   - 📫 How to reach me: **longuivictor@gmail.com**
   - 🔗 My other account: [VictorLongui](https://github.com/VictorLongui)
 </div>
@@ -40,6 +39,7 @@
 <h4 align="left">Cloud, DevOps & Infra</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
